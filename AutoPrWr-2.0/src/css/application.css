@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#test{
+	/*-fx-fill: red;*/
+}
+#box{
+	-fx-background-image: url(../static/bg.jpg);
+	-fx-background-size: 100%;
+}
+#pro{
+	-fx-accent:red;
+}
